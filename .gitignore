@@ -1,18 +1,2 @@
-.netrwhist
-tmp
-nerdtree_plugin
+.DS_Store
 
-after
-autoload
-doc
-plugin
-ruby
-snippets
-syntax
-syntax_checkers
-ftdetect
-ftplugin
-colors
-indent
-.VimballRecord
-backup
